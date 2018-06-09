@@ -1,0 +1,2 @@
+# training
+understanding git hub
